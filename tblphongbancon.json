@@ -1,0 +1,47 @@
+[
+ {
+  "MaPhongBanCon": "INFMB-QLTKVH",
+  "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
+  "MaPhongBanCha": "INFMB"
+ },
+ {
+  "MaPhongBanCon": "INFMB-KH",
+  "TenPhongBanCon": "Phòng kế hoạch",
+  "MaPhongBanCha": "INFMB"
+ },
+ {
+  "MaPhongBanCon": "INFMB-KTHT",
+  "TenPhongBanCon": "Phòng kỹ thuật hệ thống",
+  "MaPhongBanCha": "INFMB"
+ },
+ {
+  "MaPhongBanCon": "INFMB-KTMNV",
+  "TenPhongBanCon": "Phòng kỹ thuật mạng ngoại vi",
+  "MaPhongBanCha": "INFMB"
+ },
+ {
+  "MaPhongBanCon": "NFMB-HT1",
+  "TenPhongBanCon": "Phòng hạ tầng 1",
+  "MaPhongBanCha": "INFMB"
+ },
+ {
+  "MaPhongBanCon": "NFMB-HT2",
+  "TenPhongBanCon": "Phòng hạ tầng 2",
+  "MaPhongBanCha": "INFMB"
+ },
+ {
+  "MaPhongBanCon": "NFMB-HT3",
+  "TenPhongBanCon": "Phòng hạ tầng 3",
+  "MaPhongBanCha": "INFMB"
+ },
+ {
+  "MaPhongBanCon": "NFMB-HT4",
+  "TenPhongBanCon": "Phòng hạ tầng 4",
+  "MaPhongBanCha": "INFMB"
+ },
+ {
+  "MaPhongBanCon": "INFMBGD",
+  "TenPhongBanCon": "Ban Giám đốc",
+  "MaPhongBanCha": "INFMB"
+ }
+]

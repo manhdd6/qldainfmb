@@ -1,0 +1,62 @@
+[
+  {
+   "businesszoneid": "HPG",
+   "businesszone": "Hải Phòng"
+  },
+  {
+   "businesszoneid": "DNI",
+   "businesszone": "Đồng Nai"
+  },
+  {
+   "businesszoneid": "HDG",
+   "businesszone": "Hải Dương"
+  },
+  {
+   "businesszoneid": "BDG",
+   "businesszone": "Bình Dương"
+  },
+  {
+   "businesszoneid": "HNI",
+   "businesszone": "Hà Nội"
+  },
+  {
+   "businesszoneid": "HCM",
+   "businesszone": "Hồ Chí Minh"
+  },
+  {
+   "businesszoneid": "KHA",
+   "businesszone": "Khánh Hòa"
+  },
+  {
+   "businesszoneid": "VTU",
+   "businesszone": "Vũng Tàu"
+  },
+  {
+   "businesszoneid": "DNG",
+   "businesszone": "Đà Nẵng"
+  },
+  {
+   "businesszoneid": "QNH",
+   "businesszone": "Quảng Ninh"
+  },
+  {
+   "businesszoneid": "TBB",
+   "businesszone": "Tây Bắc Bộ"
+  },
+  {
+   "businesszoneid": "DBB",
+   "businesszone": "Đông Bắc Bộ"
+  },
+  {
+   "businesszoneid": "TNMT",
+   "businesszone": "Tây Nguyên và Miền Trung"
+  },
+  {
+   "businesszoneid": "DNB",
+   "businesszone": "Đông Nam Bộ"
+  },
+  {
+   "businesszoneid": "TNB",
+   "businesszone": "Tây Nam Bộ"
+  }
+ ]
