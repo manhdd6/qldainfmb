@@ -1,7 +1,7 @@
 [
  {
   "username": "ngatt7",
-  "password": 12345678,
+  "password": 123,
   "HoVaTen": "Tô Thị Ngà",
   "Email": "ngatt7@fpt.com",
   "VaiTro": "user"
@@ -43,21 +43,21 @@
  },
  {
   "username": "hieubq3",
-  "password": 12345678,
+  "password": 123,
   "HoVaTen": "Bạch Quang Hiếu",
   "Email": "hieubq3@fpt.com",
   "VaiTro": "user"
  },
  {
   "username": "bangbc",
-  "password": 12345678,
+  "password": 123,
   "HoVaTen": "Bùi Công Bằng",
   "Email": "bangbc@fpt.com",
   "VaiTro": "user"
  },
  {
   "username": "manhdd15",
-  "password": 12345678,
+  "password": 123,
   "HoVaTen": "Đỗ Đình Mạnh",
   "Email": "manhdd15@fpt.com",
   "VaiTro": "admin"
