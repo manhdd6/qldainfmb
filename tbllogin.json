@@ -1,191 +1,191 @@
 [
- {
-  "username": "ngatt7",
-  "password": 123,
-  "HoVaTen": "Tô Thị Ngà",
-  "Email": "ngatt7@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "tungnt60",
-  "password": 12345678,
-  "HoVaTen": "Nguyễn Thanh Tùng",
-  "Email": "tungnt60@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "thanvv",
-  "password": 12345678,
-  "HoVaTen": "Vũ Văn Thân",
-  "Email": "thanvv@fpt.com",
-  "VaiTro": "admin"
- },
- {
-  "username": "cuongnc2",
-  "password": 12345678,
-  "HoVaTen": "Nguyễn Chí Cương",
-  "Email": "cuongnc2@fpt.com",
-  "VaiTro": "admin"
- },
- {
-  "username": "cuongvd5",
-  "password": 12345678,
-  "HoVaTen": "Vũ Đình Cường",
-  "Email": "cuongvd5@fpt.com",
-  "VaiTro": "admin"
- },
- {
-  "username": "chungvx",
-  "password": 12345678,
-  "HoVaTen": "Vũ Xuân Chung",
-  "Email": "chungvx@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "hieubq3",
-  "password": 123,
-  "HoVaTen": "Bạch Quang Hiếu",
-  "Email": "hieubq3@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "bangbc",
-  "password": 123,
-  "HoVaTen": "Bùi Công Bằng",
-  "Email": "bangbc@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "manhdd15",
-  "password": 123,
-  "HoVaTen": "Đỗ Đình Mạnh",
-  "Email": "manhdd15@fpt.com",
-  "VaiTro": "admin"
- },
- {
-  "username": "hungdv30",
-  "password": 12345678,
-  "HoVaTen": "Đoàn Việt Hùng",
-  "Email": "hungdv30@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "cuonghm6",
-  "password": 12345678,
-  "HoVaTen": "Hoàng Mạnh Cường",
-  "Email": "cuonghm6@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "vuongbq",
-  "password": 12345678,
-  "HoVaTen": "Bùi Quốc Vương",
-  "Email": "vuongbq@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "quyenvv2",
-  "password": 12345678,
-  "HoVaTen": "Vũ Văn Quyến",
-  "Email": "quyenvv2@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "anhlh16",
-  "password": 12345678,
-  "HoVaTen": "Lưu Hoàng Anh",
-  "Email": "anhlh16@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "phucha",
-  "password": 12345678,
-  "HoVaTen": "Hoàng Anh Phúc",
-  "Email": "phucha@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "duocdd2",
-  "password": 12345678,
-  "HoVaTen": "Đào Duy Được",
-  "Email": "duocdd2@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "sonkn",
-  "password": 12345678,
-  "HoVaTen": "Kiều Ngọc Sơn",
-  "Email": "sonkn@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "linhvt2",
-  "password": 12345678,
-  "HoVaTen": "Vũ Trường Linh",
-  "Email": "linhvt2@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "duocdd2",
-  "password": 12345678,
-  "HoVaTen": "Đào Duy Được",
-  "Email": "duocdd2@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "sonkn",
-  "password": 12345678,
-  "HoVaTen": "Kiều Ngọc Sơn",
-  "Email": "sonkn@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "sonnh12",
-  "password": 12345678,
-  "HoVaTen": "Nguyễn Huy Sơn",
-  "Email": "sonnh12@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "hainm22",
-  "password": 12345678,
-  "HoVaTen": "Nguyễn Minh Hải",
-  "Email": "hainm22@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "huynhmvt",
-  "password": 12345678,
-  "HoVaTen": "Mai Vũ Thế Huỳnh",
-  "Email": "huynhmvt@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "khanhtc2",
-  "password": 12345678,
-  "HoVaTen": "Trương Công Khánh",
-  "Email": "khanhtc2@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "toankv2",
-  "password": 12345678,
-  "HoVaTen": "Kiều Văn Toàn",
-  "Email": "toankv2@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "sonhx3",
-  "password": 12345678,
-  "HoVaTen": "Hồ Xuân Sơn",
-  "Email": "sonhx3@fpt.com",
-  "VaiTro": "user"
- },
- {
-  "username": "minhph9",
-  "password": 12345678,
-  "HoVaTen": "Phạm Huy Minh",
-  "Email": "minhph9@fpt.com",
-  "VaiTro": "user"
- }
+  {
+    "username": "ngatt7",
+    "password": 123,
+    "HoVaTen": "Tô Thị Ngà",
+    "Email": "ngatt7@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "tungnt60",
+    "password": 12345678,
+    "HoVaTen": "Nguyễn Thanh Tùng",
+    "Email": "tungnt60@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "thanvv",
+    "password": 12345678,
+    "HoVaTen": "Vũ Văn Thân",
+    "Email": "thanvv@fpt.com",
+    "VaiTro": "admin"
+  },
+  {
+    "username": "cuongnc2",
+    "password": 12345678,
+    "HoVaTen": "Nguyễn Chí Cương",
+    "Email": "cuongnc2@fpt.com",
+    "VaiTro": "admin"
+  },
+  {
+    "username": "cuongvd5",
+    "password": 12345678,
+    "HoVaTen": "Vũ Đình Cường",
+    "Email": "cuongvd5@fpt.com",
+    "VaiTro": "admin"
+  },
+  {
+    "username": "chungvx",
+    "password": 12345678,
+    "HoVaTen": "Vũ Xuân Chung",
+    "Email": "chungvx@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "hieubq3",
+    "password": 123,
+    "HoVaTen": "Bạch Quang Hiếu",
+    "Email": "hieubq3@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "bangbc",
+    "password": 123,
+    "HoVaTen": "Bùi Công Bằng",
+    "Email": "bangbc@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "manhdd15",
+    "password": "AfJfP%(vvgz(",
+    "HoVaTen": "Đỗ Đình Mạnh",
+    "Email": "manhdd15@fpt.com",
+    "VaiTro": "admin"
+  },
+  {
+    "username": "hungdv30",
+    "password": 12345678,
+    "HoVaTen": "Đoàn Việt Hùng",
+    "Email": "hungdv30@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "cuonghm6",
+    "password": 12345678,
+    "HoVaTen": "Hoàng Mạnh Cường",
+    "Email": "cuonghm6@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "vuongbq",
+    "password": 12345678,
+    "HoVaTen": "Bùi Quốc Vương",
+    "Email": "vuongbq@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "quyenvv2",
+    "password": 12345678,
+    "HoVaTen": "Vũ Văn Quyến",
+    "Email": "quyenvv2@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "anhlh16",
+    "password": 12345678,
+    "HoVaTen": "Lưu Hoàng Anh",
+    "Email": "anhlh16@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "phucha",
+    "password": 12345678,
+    "HoVaTen": "Hoàng Anh Phúc",
+    "Email": "phucha@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "duocdd2",
+    "password": 12345678,
+    "HoVaTen": "Đào Duy Được",
+    "Email": "duocdd2@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "sonkn",
+    "password": 12345678,
+    "HoVaTen": "Kiều Ngọc Sơn",
+    "Email": "sonkn@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "linhvt2",
+    "password": 12345678,
+    "HoVaTen": "Vũ Trường Linh",
+    "Email": "linhvt2@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "duocdd2",
+    "password": 12345678,
+    "HoVaTen": "Đào Duy Được",
+    "Email": "duocdd2@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "sonkn",
+    "password": 12345678,
+    "HoVaTen": "Kiều Ngọc Sơn",
+    "Email": "sonkn@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "sonnh12",
+    "password": 12345678,
+    "HoVaTen": "Nguyễn Huy Sơn",
+    "Email": "sonnh12@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "hainm22",
+    "password": 12345678,
+    "HoVaTen": "Nguyễn Minh Hải",
+    "Email": "hainm22@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "huynhmvt",
+    "password": 12345678,
+    "HoVaTen": "Mai Vũ Thế Huỳnh",
+    "Email": "huynhmvt@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "khanhtc2",
+    "password": 12345678,
+    "HoVaTen": "Trương Công Khánh",
+    "Email": "khanhtc2@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "toankv2",
+    "password": 12345678,
+    "HoVaTen": "Kiều Văn Toàn",
+    "Email": "toankv2@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "sonhx3",
+    "password": 12345678,
+    "HoVaTen": "Hồ Xuân Sơn",
+    "Email": "sonhx3@fpt.com",
+    "VaiTro": "user"
+  },
+  {
+    "username": "minhph9",
+    "password": 12345678,
+    "HoVaTen": "Phạm Huy Minh",
+    "Email": "minhph9@fpt.com",
+    "VaiTro": "user"
+  }
 ]
