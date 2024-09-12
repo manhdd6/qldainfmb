@@ -1,62 +1,77 @@
 [
-  {
-   "businesszoneid": "HPG",
-   "businesszone": "Hải Phòng"
-  },
-  {
-   "businesszoneid": "DNI",
-   "businesszone": "Đồng Nai"
-  },
-  {
-   "businesszoneid": "HDG",
-   "businesszone": "Hải Dương"
-  },
-  {
-   "businesszoneid": "BDG",
-   "businesszone": "Bình Dương"
-  },
-  {
-   "businesszoneid": "HNI",
-   "businesszone": "Hà Nội"
-  },
-  {
-   "businesszoneid": "HCM",
-   "businesszone": "Hồ Chí Minh"
-  },
-  {
-   "businesszoneid": "KHA",
-   "businesszone": "Khánh Hòa"
-  },
-  {
-   "businesszoneid": "VTU",
-   "businesszone": "Vũng Tàu"
-  },
-  {
-   "businesszoneid": "DNG",
-   "businesszone": "Đà Nẵng"
-  },
-  {
-   "businesszoneid": "QNH",
-   "businesszone": "Quảng Ninh"
-  },
-  {
-   "businesszoneid": "TBB",
-   "businesszone": "Tây Bắc Bộ"
-  },
-  {
-   "businesszoneid": "DBB",
-   "businesszone": "Đông Bắc Bộ"
-  },
-  {
-   "businesszoneid": "TNMT",
-   "businesszone": "Tây Nguyên và Miền Trung"
-  },
-  {
-   "businesszoneid": "DNB",
-   "businesszone": "Đông Nam Bộ"
-  },
-  {
-   "businesszoneid": "TNB",
-   "businesszone": "Tây Nam Bộ"
-  }
- ]
+ {
+  "businesszoneid": "HPG",
+  "businesszone": "Hải Phòng",
+  "inf": "INFMB"
+ },
+ {
+  "businesszoneid": "HDG",
+  "businesszone": "Hải Dương",
+  "inf": "INFMB"
+ },
+ {
+  "businesszoneid": "HNI",
+  "businesszone": "Hà Nội",
+  "inf": "INFMB"
+ },
+ {
+  "businesszoneid": "QNH",
+  "businesszone": "Quảng Ninh",
+  "inf": "INFMB"
+ },
+ {
+  "businesszoneid": "TBB",
+  "businesszone": "Tây Bắc Bộ",
+  "inf": "INFMB"
+ },
+ {
+  "businesszoneid": "DBB",
+  "businesszone": "Đông Bắc Bộ",
+  "inf": "INFMB"
+ },
+ {
+  "businesszoneid": "DNI",
+  "businesszone": "Đồng Nai",
+  "inf": "INFMN"
+ },
+ {
+  "businesszoneid": "BDG",
+  "businesszone": "Bình Dương",
+  "inf": "INFMN"
+ },
+ {
+  "businesszoneid": "HCM",
+  "businesszone": "Hồ Chí Minh",
+  "inf": "INFMN"
+ },
+ {
+  "businesszoneid": "KHA",
+  "businesszone": "Khánh Hòa",
+  "inf": "INFMN"
+ },
+ {
+  "businesszoneid": "VTU",
+  "businesszone": "Vũng Tàu",
+  "inf": "INFMN"
+ },
+ {
+  "businesszoneid": "DNG",
+  "businesszone": "Đà Nẵng",
+  "inf": "INFMN"
+ },
+ {
+  "businesszoneid": "TNMT",
+  "businesszone": "Tây Nguyên và Miền Trung",
+  "inf": "INFMN"
+ },
+ {
+  "businesszoneid": "DNB",
+  "businesszone": "Đông Nam Bộ",
+  "inf": "INFMN"
+ },
+ {
+  "businesszoneid": "TNB",
+  "businesszone": "Tây Nam Bộ",
+  "inf": "INFMN"
+ }
+]
