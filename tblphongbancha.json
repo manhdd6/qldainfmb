@@ -1,10 +1,10 @@
 [
  {
-  "MaPhongBanCha": "INFMB",
-  "TenPhongBanCha": "TT Phat trien và QLHT Mien Bac"
+  "inf": "INFMB",
+  "infdetail": "TT Phat trien và QLHT Mien Bac"
  },
  {
-  "MaPhongBanCha": "INFMN",
-  "TenPhongBanCha": "TT Phat trien và QLHT Mien Nam"
+  "inf": "INFMN",
+  "infdetail": "TT Phat trien và QLHT Mien Nam"
  }
 ]
