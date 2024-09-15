@@ -1,76 +1,76 @@
 [
  {
-  "businesszoneid": "HPG",
+  "businessZoneId": "HPG",
   "businesszone": "Hải Phòng",
   "inf": "INFMB"
  },
  {
-  "businesszoneid": "HDG",
+  "businessZoneId": "HDG",
   "businesszone": "Hải Dương",
   "inf": "INFMB"
  },
  {
-  "businesszoneid": "HNI",
+  "businessZoneId": "HNI",
   "businesszone": "Hà Nội",
   "inf": "INFMB"
  },
  {
-  "businesszoneid": "QNH",
+  "businessZoneId": "QNH",
   "businesszone": "Quảng Ninh",
   "inf": "INFMB"
  },
  {
-  "businesszoneid": "TBB",
+  "businessZoneId": "TBB",
   "businesszone": "Tây Bắc Bộ",
   "inf": "INFMB"
  },
  {
-  "businesszoneid": "DBB",
+  "businessZoneId": "DBB",
   "businesszone": "Đông Bắc Bộ",
   "inf": "INFMB"
  },
  {
-  "businesszoneid": "DNI",
+  "businessZoneId": "DNI",
   "businesszone": "Đồng Nai",
   "inf": "INFMN"
  },
  {
-  "businesszoneid": "BDG",
+  "businessZoneId": "BDG",
   "businesszone": "Bình Dương",
   "inf": "INFMN"
  },
  {
-  "businesszoneid": "HCM",
+  "businessZoneId": "HCM",
   "businesszone": "Hồ Chí Minh",
   "inf": "INFMN"
  },
  {
-  "businesszoneid": "KHA",
+  "businessZoneId": "KHA",
   "businesszone": "Khánh Hòa",
   "inf": "INFMN"
  },
  {
-  "businesszoneid": "VTU",
+  "businessZoneId": "VTU",
   "businesszone": "Vũng Tàu",
   "inf": "INFMN"
  },
  {
-  "businesszoneid": "DNG",
+  "businessZoneId": "DNG",
   "businesszone": "Đà Nẵng",
   "inf": "INFMN"
  },
  {
-  "businesszoneid": "TNMT",
+  "businessZoneId": "TNMT",
   "businesszone": "Tây Nguyên và Miền Trung",
   "inf": "INFMN"
  },
  {
-  "businesszoneid": "DNB",
+  "businessZoneId": "DNB",
   "businesszone": "Đông Nam Bộ",
   "inf": "INFMN"
  },
  {
-  "businesszoneid": "TNB",
+  "businessZoneId": "TNB",
   "businesszone": "Tây Nam Bộ",
   "inf": "INFMN"
  }
