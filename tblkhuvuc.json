@@ -1,77 +1,77 @@
 [
  {
   "businessZoneId": "HPG",
-  "businesszone": "Hải Phòng",
+  "businessZone": "Hải Phòng",
   "inf": "INFMB"
  },
  {
   "businessZoneId": "HDG",
-  "businesszone": "Hải Dương",
+  "businessZone": "Hải Dương",
   "inf": "INFMB"
  },
  {
   "businessZoneId": "HNI",
-  "businesszone": "Hà Nội",
+  "businessZone": "Hà Nội",
   "inf": "INFMB"
  },
  {
   "businessZoneId": "QNH",
-  "businesszone": "Quảng Ninh",
+  "businessZone": "Quảng Ninh",
   "inf": "INFMB"
  },
  {
   "businessZoneId": "TBB",
-  "businesszone": "Tây Bắc Bộ",
+  "businessZone": "Tây Bắc Bộ",
   "inf": "INFMB"
  },
  {
   "businessZoneId": "DBB",
-  "businesszone": "Đông Bắc Bộ",
+  "businessZone": "Đông Bắc Bộ",
   "inf": "INFMB"
  },
  {
   "businessZoneId": "DNI",
-  "businesszone": "Đồng Nai",
+  "businessZone": "Đồng Nai",
   "inf": "INFMN"
  },
  {
   "businessZoneId": "BDG",
-  "businesszone": "Bình Dương",
+  "businessZone": "Bình Dương",
   "inf": "INFMN"
  },
  {
   "businessZoneId": "HCM",
-  "businesszone": "Hồ Chí Minh",
+  "businessZone": "Hồ Chí Minh",
   "inf": "INFMN"
  },
  {
   "businessZoneId": "KHA",
-  "businesszone": "Khánh Hòa",
+  "businessZone": "Khánh Hòa",
   "inf": "INFMN"
  },
  {
   "businessZoneId": "VTU",
-  "businesszone": "Vũng Tàu",
+  "businessZone": "Vũng Tàu",
   "inf": "INFMN"
  },
  {
   "businessZoneId": "DNG",
-  "businesszone": "Đà Nẵng",
+  "businessZone": "Đà Nẵng",
   "inf": "INFMN"
  },
  {
   "businessZoneId": "TNMT",
-  "businesszone": "Tây Nguyên và Miền Trung",
+  "businessZone": "Tây Nguyên và Miền Trung",
   "inf": "INFMN"
  },
  {
   "businessZoneId": "DNB",
-  "businesszone": "Đông Nam Bộ",
+  "businessZone": "Đông Nam Bộ",
   "inf": "INFMN"
  },
  {
   "businessZoneId": "TNB",
-  "businesszone": "Tây Nam Bộ",
+  "businessZone": "Tây Nam Bộ",
   "inf": "INFMN"
  }
 ]
