@@ -1,327 +1,327 @@
 [
  {
-  "infmaintain": "BDG",
-  "detailbranch": "Bình Dương",
+  "infMaintain": "BDG",
+  "detailBranch": "Bình Dương",
   "businessZoneId": "BDG"
  },
  {
-  "infmaintain": "DBN",
-  "detailbranch": "Điện Biên",
+  "infMaintain": "DBN",
+  "detailBranch": "Điện Biên",
   "businessZoneId": "DBB"
  },
  {
-  "infmaintain": "HBH",
-  "detailbranch": "Hoà Bình",
+  "infMaintain": "HBH",
+  "detailBranch": "Hoà Bình",
   "businessZoneId": "DBB"
  },
  {
-  "infmaintain": "HNM",
-  "detailbranch": "Hà Nam",
+  "infMaintain": "HNM",
+  "detailBranch": "Hà Nam",
   "businessZoneId": "DBB"
  },
  {
-  "infmaintain": "HTH",
-  "detailbranch": "Hà Tĩnh",
+  "infMaintain": "HTH",
+  "detailBranch": "Hà Tĩnh",
   "businessZoneId": "DBB"
  },
  {
-  "infmaintain": "NAN",
-  "detailbranch": "Nghệ An",
+  "infMaintain": "NAN",
+  "detailBranch": "Nghệ An",
   "businessZoneId": "DBB"
  },
  {
-  "infmaintain": "NBH",
-  "detailbranch": "Ninh Bình",
+  "infMaintain": "NBH",
+  "detailBranch": "Ninh Bình",
   "businessZoneId": "DBB"
  },
  {
-  "infmaintain": "NDH",
-  "detailbranch": "Nam Định",
+  "infMaintain": "NDH",
+  "detailBranch": "Nam Định",
   "businessZoneId": "DBB"
  },
  {
-  "infmaintain": "SLA",
-  "detailbranch": "Sơn La",
+  "infMaintain": "SLA",
+  "detailBranch": "Sơn La",
   "businessZoneId": "DBB"
  },
  {
-  "infmaintain": "TBH",
-  "detailbranch": "Thái Bình",
+  "infMaintain": "TBH",
+  "detailBranch": "Thái Bình",
   "businessZoneId": "DBB"
  },
  {
-  "infmaintain": "THA",
-  "detailbranch": "Thanh Hóa",
+  "infMaintain": "THA",
+  "detailBranch": "Thanh Hóa",
   "businessZoneId": "DBB"
  },
  {
-  "infmaintain": "HYN",
-  "detailbranch": "Hưng Yên",
+  "infMaintain": "HYN",
+  "detailBranch": "Hưng Yên",
   "businessZoneId": "DBB"
  },
  {
-  "infmaintain": "BPC",
-  "detailbranch": "Bình Phước",
+  "infMaintain": "BPC",
+  "detailBranch": "Bình Phước",
   "businessZoneId": "DNB"
  },
  {
-  "infmaintain": "BTN",
-  "detailbranch": "Bình Thuận",
+  "infMaintain": "BTN",
+  "detailBranch": "Bình Thuận",
   "businessZoneId": "DNB"
  },
  {
-  "infmaintain": "LDG",
-  "detailbranch": "Lâm Đồng",
+  "infMaintain": "LDG",
+  "detailBranch": "Lâm Đồng",
   "businessZoneId": "DNB"
  },
  {
-  "infmaintain": "NTN",
-  "detailbranch": "Ninh Thuận",
+  "infMaintain": "NTN",
+  "detailBranch": "Ninh Thuận",
   "businessZoneId": "DNB"
  },
  {
-  "infmaintain": "TNH",
-  "detailbranch": "Tây Ninh",
+  "infMaintain": "TNH",
+  "detailBranch": "Tây Ninh",
   "businessZoneId": "DNB"
  },
  {
-  "infmaintain": "LAN",
-  "detailbranch": "Long An",
+  "infMaintain": "LAN",
+  "detailBranch": "Long An",
   "businessZoneId": "DNB"
  },
  {
-  "infmaintain": "DNI",
-  "detailbranch": "Đồng Nai",
+  "infMaintain": "DNI",
+  "detailBranch": "Đồng Nai",
   "businessZoneId": "DNI"
  },
  {
-  "infmaintain": "DNG",
-  "detailbranch": "Đà Nẵng",
+  "infMaintain": "DNG",
+  "detailBranch": "Đà Nẵng",
   "businessZoneId": "DNG"
  },
  {
-  "infmaintain": "BTHT1",
-  "detailbranch": "Bảo trì hạ tầng 1",
+  "infMaintain": "BTHT1",
+  "detailBranch": "Bảo trì hạ tầng 1",
   "businessZoneId": "HCM"
  },
  {
-  "infmaintain": "BTHT2",
-  "detailbranch": "Bảo trì hạ tầng 2",
+  "infMaintain": "BTHT2",
+  "detailBranch": "Bảo trì hạ tầng 2",
   "businessZoneId": "HCM"
  },
  {
-  "infmaintain": "BTHT3",
-  "detailbranch": "Bảo trì hạ tầng 3",
+  "infMaintain": "BTHT3",
+  "detailBranch": "Bảo trì hạ tầng 3",
   "businessZoneId": "HCM"
  },
  {
-  "infmaintain": "HDG",
-  "detailbranch": "Hải Dương",
+  "infMaintain": "HDG",
+  "detailBranch": "Hải Dương",
   "businessZoneId": "HDG"
  },
  {
-  "infmaintain": "HT1",
-  "detailbranch": "Hạ tầng 1",
+  "infMaintain": "HT1",
+  "detailBranch": "Hạ tầng 1",
   "businessZoneId": "HNI"
  },
  {
-  "infmaintain": "HT2",
-  "detailbranch": "Hạ tầng 2",
+  "infMaintain": "HT2",
+  "detailBranch": "Hạ tầng 2",
   "businessZoneId": "HNI"
  },
  {
-  "infmaintain": "HT3",
-  "detailbranch": "Hạ tầng 3",
+  "infMaintain": "HT3",
+  "detailBranch": "Hạ tầng 3",
   "businessZoneId": "HNI"
  },
  {
-  "infmaintain": "HT4",
-  "detailbranch": "Hạ tầng 4",
+  "infMaintain": "HT4",
+  "detailBranch": "Hạ tầng 4",
   "businessZoneId": "HNI"
  },
  {
-  "infmaintain": "HPG",
-  "detailbranch": "Hải Phòng",
+  "infMaintain": "HPG",
+  "detailBranch": "Hải Phòng",
   "businessZoneId": "HPG"
  },
  {
-  "infmaintain": "NTG",
-  "detailbranch": "Khánh Hòa",
+  "infMaintain": "NTG",
+  "detailBranch": "Khánh Hòa",
   "businessZoneId": "KHA"
  },
  {
-  "infmaintain": "QNH",
-  "detailbranch": "Quảng Ninh",
+  "infMaintain": "QNH",
+  "detailBranch": "Quảng Ninh",
   "businessZoneId": "QNH"
  },
  {
-  "infmaintain": "BGG",
-  "detailbranch": "Bắc Giang",
+  "infMaintain": "BGG",
+  "detailBranch": "Bắc Giang",
   "businessZoneId": "TBB"
  },
  {
-  "infmaintain": "BNH",
-  "detailbranch": "Bắc Ninh",
+  "infMaintain": "BNH",
+  "detailBranch": "Bắc Ninh",
   "businessZoneId": "TBB"
  },
  {
-  "infmaintain": "CBG",
-  "detailbranch": "Cao Bằng",
+  "infMaintain": "CBG",
+  "detailBranch": "Cao Bằng",
   "businessZoneId": "TBB"
  },
  {
-  "infmaintain": "LCI",
-  "detailbranch": "Lào Cai",
+  "infMaintain": "LCI",
+  "detailBranch": "Lào Cai",
   "businessZoneId": "TBB"
  },
  {
-  "infmaintain": "LSN",
-  "detailbranch": "Lạng Sơn",
+  "infMaintain": "LSN",
+  "detailBranch": "Lạng Sơn",
   "businessZoneId": "TBB"
  },
  {
-  "infmaintain": "PTO",
-  "detailbranch": "Phú Thọ",
+  "infMaintain": "PTO",
+  "detailBranch": "Phú Thọ",
   "businessZoneId": "TBB"
  },
  {
-  "infmaintain": "TNN",
-  "detailbranch": "Thái Nguyên",
+  "infMaintain": "TNN",
+  "detailBranch": "Thái Nguyên",
   "businessZoneId": "TBB"
  },
  {
-  "infmaintain": "TQG",
-  "detailbranch": "Tuyên Quang",
+  "infMaintain": "TQG",
+  "detailBranch": "Tuyên Quang",
   "businessZoneId": "TBB"
  },
  {
-  "infmaintain": "VPC",
-  "detailbranch": "Vĩnh Phúc",
+  "infMaintain": "VPC",
+  "detailBranch": "Vĩnh Phúc",
   "businessZoneId": "TBB"
  },
  {
-  "infmaintain": "YBI",
-  "detailbranch": "Yên Bái",
+  "infMaintain": "YBI",
+  "detailBranch": "Yên Bái",
   "businessZoneId": "TBB"
  },
  {
-  "infmaintain": "AGG",
-  "detailbranch": "An Giang",
+  "infMaintain": "AGG",
+  "detailBranch": "An Giang",
   "businessZoneId": "TNB"
  },
  {
-  "infmaintain": "BTE",
-  "detailbranch": "Bến Tre",
+  "infMaintain": "BTE",
+  "detailBranch": "Bến Tre",
   "businessZoneId": "TNB"
  },
  {
-  "infmaintain": "CMU",
-  "detailbranch": "Cà Mau",
+  "infMaintain": "CMU",
+  "detailBranch": "Cà Mau",
   "businessZoneId": "TNB"
  },
  {
-  "infmaintain": "CTO",
-  "detailbranch": "Cần Thơ",
+  "infMaintain": "CTO",
+  "detailBranch": "Cần Thơ",
   "businessZoneId": "TNB"
  },
  {
-  "infmaintain": "DTP",
-  "detailbranch": "Đồng Tháp",
+  "infMaintain": "DTP",
+  "detailBranch": "Đồng Tháp",
   "businessZoneId": "TNB"
  },
  {
-  "infmaintain": "HGG",
-  "detailbranch": "Hậu Giang",
+  "infMaintain": "HGG",
+  "detailBranch": "Hậu Giang",
   "businessZoneId": "TNB"
  },
  {
-  "infmaintain": "KGG",
-  "detailbranch": "Kiên Giang",
+  "infMaintain": "KGG",
+  "detailBranch": "Kiên Giang",
   "businessZoneId": "TNB"
  },
  {
-  "infmaintain": "STG",
-  "detailbranch": "Sóc Trăng",
+  "infMaintain": "STG",
+  "detailBranch": "Sóc Trăng",
   "businessZoneId": "TNB"
  },
  {
-  "infmaintain": "TGG",
-  "detailbranch": "Tiền Giang",
+  "infMaintain": "TGG",
+  "detailBranch": "Tiền Giang",
   "businessZoneId": "TNB"
  },
  {
-  "infmaintain": "TVH",
-  "detailbranch": "Trà Vinh",
+  "infMaintain": "TVH",
+  "detailBranch": "Trà Vinh",
   "businessZoneId": "TNB"
  },
  {
-  "infmaintain": "VLG",
-  "detailbranch": "Vĩnh Long",
+  "infMaintain": "VLG",
+  "detailBranch": "Vĩnh Long",
   "businessZoneId": "TNB"
  },
  {
-  "infmaintain": "BLU",
-  "detailbranch": "Bạc Liêu",
+  "infMaintain": "BLU",
+  "detailBranch": "Bạc Liêu",
   "businessZoneId": "TNB"
  },
  {
-  "infmaintain": "BDH",
-  "detailbranch": "Bình Định",
+  "infMaintain": "BDH",
+  "detailBranch": "Bình Định",
   "businessZoneId": "TNMT"
  },
  {
-  "infmaintain": "DKG",
-  "detailbranch": "Đắk Nông",
+  "infMaintain": "DKG",
+  "detailBranch": "Đắk Nông",
   "businessZoneId": "TNMT"
  },
  {
-  "infmaintain": "DLK",
-  "detailbranch": "Đắk Lắk",
+  "infMaintain": "DLK",
+  "detailBranch": "Đắk Lắk",
   "businessZoneId": "TNMT"
  },
  {
-  "infmaintain": "GLI",
-  "detailbranch": "Gia Lai",
+  "infMaintain": "GLI",
+  "detailBranch": "Gia Lai",
   "businessZoneId": "TNMT"
  },
  {
-  "infmaintain": "HUE",
-  "detailbranch": "Thừa Thiên Huế",
+  "infMaintain": "HUE",
+  "detailBranch": "Thừa Thiên Huế",
   "businessZoneId": "TNMT"
  },
  {
-  "infmaintain": "KTM",
-  "detailbranch": "Kon Tum",
+  "infMaintain": "KTM",
+  "detailBranch": "Kon Tum",
   "businessZoneId": "TNMT"
  },
  {
-  "infmaintain": "PYN",
-  "detailbranch": "Phú Yên",
+  "infMaintain": "PYN",
+  "detailBranch": "Phú Yên",
   "businessZoneId": "TNMT"
  },
  {
-  "infmaintain": "QBH",
-  "detailbranch": "Quảng Bình",
+  "infMaintain": "QBH",
+  "detailBranch": "Quảng Bình",
   "businessZoneId": "TNMT"
  },
  {
-  "infmaintain": "QNI",
-  "detailbranch": "Quảng Ngãi",
+  "infMaintain": "QNI",
+  "detailBranch": "Quảng Ngãi",
   "businessZoneId": "TNMT"
  },
  {
-  "infmaintain": "QNM",
-  "detailbranch": "Quảng Nam",
+  "infMaintain": "QNM",
+  "detailBranch": "Quảng Nam",
   "businessZoneId": "TNMT"
  },
  {
-  "infmaintain": "QTI",
-  "detailbranch": "Quảng Trị",
+  "infMaintain": "QTI",
+  "detailBranch": "Quảng Trị",
   "businessZoneId": "TNMT"
  },
  {
-  "infmaintain": "VTU",
-  "detailbranch": "Bà Rịa - Vũng Tàu",
+  "infMaintain": "VTU",
+  "detailBranch": "Bà Rịa - Vũng Tàu",
   "businessZoneId": "VTU"
  }
 ]
