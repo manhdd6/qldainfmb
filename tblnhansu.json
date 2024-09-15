@@ -9,7 +9,7 @@
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0982880526",
   "Fcall": 1418,
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMBBGD",
   "TenPhongBanCon": "Ban Giám đốc",
   "TrangThaiLamViec": "Đang làm việc"
@@ -24,7 +24,7 @@
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0985842526",
   "Fcall": 4725,
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMBBGD",
   "TenPhongBanCon": "Ban Giám đốc",
   "TrangThaiLamViec": "Đang làm việc"
@@ -39,7 +39,7 @@
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0914824899",
   "Fcall": 4119,
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -54,7 +54,7 @@
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0978884005",
   "Fcall": 4069,
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -69,7 +69,7 @@
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0946406233",
   "Fcall": 3674,
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -84,7 +84,7 @@
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0913021598",
   "Fcall": 4052,
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -99,7 +99,7 @@
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0945449854",
   "Fcall": 4070,
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -114,7 +114,7 @@
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0985612332",
   "Fcall": 4714,
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -128,7 +128,7 @@
   "GioiTinh": "Nam",
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0968524333",
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -143,7 +143,7 @@
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0838828026",
   "Fcall": 4715,
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -158,7 +158,7 @@
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0967802321",
   "Fcall": 0,
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -172,7 +172,7 @@
   "GioiTinh": "Nam",
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0982131888",
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -186,7 +186,7 @@
   "GioiTinh": "Nam",
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0904101914",
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -200,7 +200,7 @@
   "GioiTinh": "Nam",
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0984109544",
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -215,7 +215,7 @@
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0968815747",
   "Fcall": 4065,
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -230,7 +230,7 @@
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0917396486",
   "Fcall": 3376,
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -245,7 +245,7 @@
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0944802820",
   "Fcall": 3375,
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -260,7 +260,7 @@
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0915246692",
   "Fcall": 4214,
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -275,7 +275,7 @@
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0917396486",
   "Fcall": 3376,
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -290,7 +290,7 @@
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0944802820",
   "Fcall": 3375,
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -305,7 +305,7 @@
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0906481984",
   "Fcall": 4258,
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -320,7 +320,7 @@
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0902145454",
   "Fcall": 4743,
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -334,7 +334,7 @@
   "GioiTinh": "Nam",
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0967331054",
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -349,7 +349,7 @@
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0912564423",
   "Fcall": 4057,
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -363,7 +363,7 @@
   "GioiTinh": "Nam",
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0385422008",
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -377,7 +377,7 @@
   "GioiTinh": "Nam",
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0988544231",
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -391,7 +391,7 @@
   "GioiTinh": "Nam",
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0974269113",
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -405,7 +405,7 @@
   "GioiTinh": "Nam",
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0328888595",
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
@@ -419,7 +419,7 @@
   "GioiTinh": "Nữ",
   "NgayVaoLamViec": "05\/16\/2019",
   "Phone": "0123456679",
-  "MaPhongBanCha": "INFMB",
+  "inf": "INFMB",
   "MaPhongBanCon": "INFMB-QLTKVH",
   "TenPhongBanCon": "Phòng quản lý triển khai vận hành",
   "TrangThaiLamViec": "Đang làm việc"
