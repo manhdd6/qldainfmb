@@ -1,0 +1,487 @@
+[
+    {
+     "branch": "AGG",
+     "lstBranch": "An Giang",
+     "infMaintain": "AGG"
+    },
+    {
+     "branch": "BDG",
+     "lstBranch": "Bình Dương",
+     "infMaintain": "BDG"
+    },
+    {
+     "branch": "BDH",
+     "lstBranch": "Bình Định",
+     "infMaintain": "BDH"
+    },
+    {
+     "branch": "BGG",
+     "lstBranch": "Bắc Giang",
+     "infMaintain": "BGG"
+    },
+    {
+     "branch": "BLU",
+     "lstBranch": "Bạc Liêu",
+     "infMaintain": "BLU"
+    },
+    {
+     "branch": "BNH",
+     "lstBranch": "Bắc Ninh",
+     "infMaintain": "BNH"
+    },
+    {
+     "branch": "BPC",
+     "lstBranch": "Bình Phước",
+     "infMaintain": "BPC"
+    },
+    {
+     "branch": "BTE",
+     "lstBranch": "Bến Tre",
+     "infMaintain": "BTE"
+    },
+    {
+     "branch": "BTN",
+     "lstBranch": "Bình Thuận",
+     "infMaintain": "BTN"
+    },
+    {
+     "branch": "CBG",
+     "lstBranch": "Cao Bằng",
+     "infMaintain": "CBG"
+    },
+    {
+     "branch": "CMU",
+     "lstBranch": "Cà Mau",
+     "infMaintain": "CMU"
+    },
+    {
+     "branch": "CTO",
+     "lstBranch": "Cần Thơ",
+     "infMaintain": "CTO"
+    },
+    {
+     "branch": "DBN",
+     "lstBranch": "Điện Biên",
+     "infMaintain": "DBN"
+    },
+    {
+     "branch": "DKG",
+     "lstBranch": "Đắk Nông",
+     "infMaintain": "DKG"
+    },
+    {
+     "branch": "DLK",
+     "lstBranch": "Đắk Lắk",
+     "infMaintain": "DLK"
+    },
+    {
+     "branch": "DNI1",
+     "lstBranch": "Đồng Nai 1",
+     "infMaintain": "DNI"
+    },
+    {
+     "branch": "DNI2",
+     "lstBranch": "Đồng Nai 2",
+     "infMaintain": "DNI"
+    },
+    {
+     "branch": "DNI3",
+     "lstBranch": "Đồng Nai 3",
+     "infMaintain": "DNI"
+    },
+    {
+     "branch": "DNI4",
+     "lstBranch": "Đồng Nai 4",
+     "infMaintain": "DNI"
+    },
+    {
+     "branch": "DNG1",
+     "lstBranch": "Đà Nẵng 1",
+     "infMaintain": "DNG"
+    },
+    {
+     "branch": "DNG2",
+     "lstBranch": "Đà Nẵng 2",
+     "infMaintain": "DNG"
+    },
+    {
+     "branch": "DTP",
+     "lstBranch": "Đồng Tháp",
+     "infMaintain": "DTP"
+    },
+    {
+     "branch": "GLI",
+     "lstBranch": "Gia Lai",
+     "infMaintain": "GLI"
+    },
+    {
+     "branch": "HBH",
+     "lstBranch": "Hoà Bình",
+     "infMaintain": "HBH"
+    },
+    {
+     "branch": "HDG",
+     "lstBranch": "Hải Dương",
+     "infMaintain": "HDG"
+    },
+    {
+     "branch": "HGG",
+     "lstBranch": "Hậu Giang",
+     "infMaintain": "HGG"
+    },
+    {
+     "branch": "HN1",
+     "lstBranch": "Hạ tầng 01",
+     "infMaintain": "HT1"
+    },
+    {
+     "branch": "HN10",
+     "lstBranch": "Hạ tầng 04",
+     "infMaintain": "HT4"
+    },
+    {
+     "branch": "HN11",
+     "lstBranch": "Hạ tầng 03",
+     "infMaintain": "HT3"
+    },
+    {
+     "branch": "HN12",
+     "lstBranch": "Hạ tầng 03",
+     "infMaintain": "HT3"
+    },
+    {
+     "branch": "HN13",
+     "lstBranch": "Hạ tầng 01",
+     "infMaintain": "HT1"
+    },
+    {
+     "branch": "HN14",
+     "lstBranch": "Hạ tầng 04",
+     "infMaintain": "HT4"
+    },
+    {
+     "branch": "HN2",
+     "lstBranch": "Hạ tầng 02",
+     "infMaintain": "HT2"
+    },
+    {
+     "branch": "HN3",
+     "lstBranch": "Hạ tầng 03",
+     "infMaintain": "HT3"
+    },
+    {
+     "branch": "HN4",
+     "lstBranch": "Hạ tầng 02",
+     "infMaintain": "HT2"
+    },
+    {
+     "branch": "HN5",
+     "lstBranch": "Hạ tầng 03",
+     "infMaintain": "HT3"
+    },
+    {
+     "branch": "HN6",
+     "lstBranch": "Hạ tầng 01",
+     "infMaintain": "HT1"
+    },
+    {
+     "branch": "HN7",
+     "lstBranch": "Hạ tầng 02",
+     "infMaintain": "HT2"
+    },
+    {
+     "branch": "HN8",
+     "lstBranch": "Hạ tầng 04",
+     "infMaintain": "HT4"
+    },
+    {
+     "branch": "HN9",
+     "lstBranch": "Hạ tầng 01",
+     "infMaintain": "HT1"
+    },
+    {
+     "branch": "HNM",
+     "lstBranch": "Hà Nam",
+     "infMaintain": "HNM"
+    },
+    {
+     "branch": "HPG1",
+     "lstBranch": "Hải Phòng 1",
+     "infMaintain": "HPG"
+    },
+    {
+     "branch": "HPG2",
+     "lstBranch": "Hải Phòng 2",
+     "infMaintain": "HPG"
+    },
+    {
+     "branch": "HPG3",
+     "lstBranch": "Hải Phòng 3",
+     "infMaintain": "HPG"
+    },
+    {
+     "branch": "HTH",
+     "lstBranch": "Hà Tĩnh",
+     "infMaintain": "HTH"
+    },
+    {
+     "branch": "HUE",
+     "lstBranch": "Thừa Thiên Huế",
+     "infMaintain": "HUE"
+    },
+    {
+     "branch": "HYN",
+     "lstBranch": "Hưng Yên",
+     "infMaintain": "HYN"
+    },
+    {
+     "branch": "KGG",
+     "lstBranch": "Kiên Giang",
+     "infMaintain": "KGG"
+    },
+    {
+     "branch": "KTM",
+     "lstBranch": "Kon Tum",
+     "infMaintain": "KTM"
+    },
+    {
+     "branch": "KHA1",
+     "lstBranch": "Khánh Hòa",
+     "infMaintain": "NTG"
+    },
+    {
+     "branch": "KHA2",
+     "lstBranch": "Khánh Hòa",
+     "infMaintain": "NTG"
+    },
+    {
+     "branch": "LAN",
+     "lstBranch": "Long An",
+     "infMaintain": "LAN"
+    },
+    {
+     "branch": "LCI",
+     "lstBranch": "Lào Cai",
+     "infMaintain": "LCI"
+    },
+    {
+     "branch": "LDG",
+     "lstBranch": "Lâm Đồng",
+     "infMaintain": "LDG"
+    },
+    {
+     "branch": "LSN",
+     "lstBranch": "Lạng Sơn",
+     "infMaintain": "LSN"
+    },
+    {
+     "branch": "NAN",
+     "lstBranch": "Nghệ An",
+     "infMaintain": "NAN"
+    },
+    {
+     "branch": "NBH",
+     "lstBranch": "Ninh Bình",
+     "infMaintain": "NBH"
+    },
+    {
+     "branch": "NDH",
+     "lstBranch": "Nam Định",
+     "infMaintain": "NDH"
+    },
+    {
+     "branch": "NTN",
+     "lstBranch": "Ninh Thuận",
+     "infMaintain": "NTN"
+    },
+    {
+     "branch": "PTO",
+     "lstBranch": "Phú Thọ",
+     "infMaintain": "PTO"
+    },
+    {
+     "branch": "PYN",
+     "lstBranch": "Phú Yên",
+     "infMaintain": "PYN"
+    },
+    {
+     "branch": "QBH",
+     "lstBranch": "Quảng Bình",
+     "infMaintain": "QBH"
+    },
+    {
+     "branch": "QNI",
+     "lstBranch": "Quảng Ngãi",
+     "infMaintain": "QNI"
+    },
+    {
+     "branch": "QNM",
+     "lstBranch": "Quảng Nam",
+     "infMaintain": "QNM"
+    },
+    {
+     "branch": "QNH1",
+     "lstBranch": "Quảng Ninh 1",
+     "infMaintain": "QNH"
+    },
+    {
+     "branch": "QNH2",
+     "lstBranch": "Quảng Ninh 2",
+     "infMaintain": "QNH"
+    },
+    {
+     "branch": "QNH3",
+     "lstBranch": "Quảng Ninh 3",
+     "infMaintain": "QNH"
+    },
+    {
+     "branch": "QTI",
+     "lstBranch": "Quảng Trị",
+     "infMaintain": "QTI"
+    },
+    {
+     "branch": "SG1",
+     "lstBranch": "Bảo trì 01",
+     "infMaintain": "BTHT1"
+    },
+    {
+     "branch": "SG10",
+     "lstBranch": "Bảo trì 01",
+     "infMaintain": "BTHT1"
+    },
+    {
+     "branch": "SG11",
+     "lstBranch": "Bảo trì 01",
+     "infMaintain": "BTHT1"
+    },
+    {
+     "branch": "SG12",
+     "lstBranch": "Bảo trì 03",
+     "infMaintain": "BTHT3"
+    },
+    {
+     "branch": "SG13",
+     "lstBranch": "Bảo trì 01",
+     "infMaintain": "BTHT1"
+    },
+    {
+     "branch": "SG14",
+     "lstBranch": "Bảo trì 03",
+     "infMaintain": "BTHT3"
+    },
+    {
+     "branch": "SG15",
+     "lstBranch": "Bảo trì 02",
+     "infMaintain": "BTHT2"
+    },
+    {
+     "branch": "SG16",
+     "lstBranch": "Bảo trì 01",
+     "infMaintain": "BTHT1"
+    },
+    {
+     "branch": "SG2",
+     "lstBranch": "Bảo trì 02",
+     "infMaintain": "BTHT2"
+    },
+    {
+     "branch": "SG3",
+     "lstBranch": "Bảo trì 01",
+     "infMaintain": "BTHT3"
+    },
+    {
+     "branch": "SG4",
+     "lstBranch": "Bảo trì 01",
+     "infMaintain": "BTHT1"
+    },
+    {
+     "branch": "SG5",
+     "lstBranch": "Bảo trì 01",
+     "infMaintain": "BTHT1"
+    },
+    {
+     "branch": "SG6",
+     "lstBranch": "Bảo trì 02",
+     "infMaintain": "BTHT3"
+    },
+    {
+     "branch": "SG7",
+     "lstBranch": "Bảo trì 02",
+     "infMaintain": "BTHT3"
+    },
+    {
+     "branch": "SG8",
+     "lstBranch": "Bảo trì 02",
+     "infMaintain": "BTHT3"
+    },
+    {
+     "branch": "SG9",
+     "lstBranch": "Bảo trì 02",
+     "infMaintain": "BTHT3"
+    },
+    {
+     "branch": "SLA",
+     "lstBranch": "Sơn La",
+     "infMaintain": "SLA"
+    },
+    {
+     "branch": "STG",
+     "lstBranch": "Sóc Trăng",
+     "infMaintain": "STG"
+    },
+    {
+     "branch": "TBH",
+     "lstBranch": "Thái Bình",
+     "infMaintain": "TBH"
+    },
+    {
+     "branch": "TGG",
+     "lstBranch": "Tiền Giang",
+     "infMaintain": "TGG"
+    },
+    {
+     "branch": "TNN",
+     "lstBranch": "Thái Nguyên",
+     "infMaintain": "TNN"
+    },
+    {
+     "branch": "TNH",
+     "lstBranch": "Tây Ninh",
+     "infMaintain": "TNH"
+    },
+    {
+     "branch": "TQG",
+     "lstBranch": "Tuyên Quang",
+     "infMaintain": "TQG"
+    },
+    {
+     "branch": "TVH",
+     "lstBranch": "Trà Vinh",
+     "infMaintain": "TVH"
+    },
+    {
+     "branch": "THA",
+     "lstBranch": "Thanh Hóa",
+     "infMaintain": "THA"
+    },
+    {
+     "branch": "VLG",
+     "lstBranch": "Vĩnh Long",
+     "infMaintain": "VLG"
+    },
+    {
+     "branch": "VPC",
+     "lstBranch": "Vĩnh Phúc",
+     "infMaintain": "VPC"
+    },
+    {
+     "branch": "VTU",
+     "lstBranch": "Bà Rịa - Vũng Tàu",
+     "infMaintain": "VTU"
+    },
+    {
+     "branch": "YBI",
+     "lstBranch": "Yên Bái",
+     "infMaintain": "YBI"
+    }
+   ]
