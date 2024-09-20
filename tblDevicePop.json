@@ -6196,7 +6196,7 @@
      "ip": "25.131.0.4",
      "hostName": "BGGM00101GENDSE",
      "popName": "BGGM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 449,
@@ -7721,7 +7721,7 @@
      "ip": "25.121.0.4",
      "hostName": "BNHM00101GENDSE",
      "popName": "BNHM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 559,
@@ -7937,7 +7937,7 @@
      "ip": "25.130.0.4",
      "hostName": "BNHP00801GENDSE",
      "popName": "BNHP008",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 575,
@@ -9783,7 +9783,7 @@
      "ip": "25.111.0.9",
      "hostName": "HDGM00101DSE",
      "popName": "HDGM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 708,
@@ -12409,7 +12409,7 @@
      "ip": "25.43.0.6",
      "hostName": "HNIM00401GENDSE",
      "popName": "HNIM004",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 897,
@@ -12447,7 +12447,7 @@
      "ip": "25.43.0.7",
      "hostName": "HNIM00402GENDSE",
      "popName": "HNIM004",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 900,
@@ -12525,7 +12525,7 @@
      "ip": "25.46.84.4",
      "hostName": "HNIM00601GENDSE",
      "popName": "HNIM006",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 906,
@@ -13691,7 +13691,7 @@
      "ip": "25.35.0.6",
      "hostName": "HNIM01001GENDSE",
      "popName": "HNIM010",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 990,
@@ -14983,7 +14983,7 @@
      "ip": "25.45.0.4",
      "hostName": "HNIM00901GENDSE",
      "popName": "HNIM009",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 1083,
@@ -16035,7 +16035,7 @@
      "ip": "25.24.0.10",
      "hostName": "HNIP00901GENDSE",
      "popName": "HNIP009",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 1159,
@@ -17136,7 +17136,7 @@
      "ip": "25.29.0.2",
      "hostName": "HNIM01201GENDSE",
      "popName": "HNIM012",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 1239,
@@ -17174,7 +17174,7 @@
      "ip": "25.29.0.3",
      "hostName": "HNIM01202GENDSE",
      "popName": "HNIM012",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 1242,
@@ -18115,7 +18115,7 @@
      "ip": "25.38.0.6",
      "hostName": "HNIM01301GENDSE",
      "popName": "HNIM013",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 1310,
@@ -19389,7 +19389,7 @@
      "ip": "25.26.46.4",
      "hostName": "HNIM00801GENDSE",
      "popName": "HNIM008",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 1402,
@@ -19517,7 +19517,7 @@
      "ip": "25.44.0.4",
      "hostName": "HNIM01101GENDSE",
      "popName": "HNIM011",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 1412,
@@ -20653,7 +20653,7 @@
      "ip": "25.13.0.5",
      "hostName": "HNIM00701GENDSE",
      "popName": "HNIM007",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 1494,
@@ -20705,7 +20705,7 @@
      "ip": "25.13.0.6",
      "hostName": "HNIM00702GENDSE",
      "popName": "HNIM007",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 1498,
@@ -22222,7 +22222,7 @@
      "ip": "25.101.0.9",
      "hostName": "HPGM00101GENDSE",
      "popName": "HPGM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 1608,
@@ -24315,7 +24315,7 @@
      "ip": "25.236.0.4",
      "hostName": "HTHM00101GENDSE",
      "popName": "HTHM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 1760,
@@ -24841,7 +24841,7 @@
      "ip": "25.231.0.2",
      "hostName": "HYNM00101GENDSE",
      "popName": "HYNM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 1798,
@@ -24929,7 +24929,7 @@
      "ip": "25.227.50.4",
      "hostName": "HYNM00201GENDSE",
      "popName": "HYNM002",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 1805,
@@ -26027,7 +26027,7 @@
      "ip": "25.176.0.4",
      "hostName": "LCIM00101GENDSE",
      "popName": "LCIM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 1884,
@@ -26427,7 +26427,7 @@
      "ip": "25.171.0.4",
      "hostName": "LSNM00101GENDSE",
      "popName": "LSNM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 1913,
@@ -26829,7 +26829,7 @@
      "ip": "10.10.149.126",
      "hostName": "NANM00101GENDSE",
      "popName": "NANM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 1942,
@@ -26881,7 +26881,7 @@
      "ip": "25.216.0.20",
      "hostName": "NANM00102GENDSE",
      "popName": "NANM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 1946,
@@ -26919,7 +26919,7 @@
      "ip": "25.216.0.19",
      "hostName": "NANM00103GENDSE",
      "popName": "NANM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 1949,
@@ -27963,7 +27963,7 @@
      "ip": "25.249.0.4",
      "hostName": "NBHM00101GENDSE",
      "popName": "NBHM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 2024,
@@ -28459,7 +28459,7 @@
      "ip": "25.201.50.4",
      "hostName": "NDHM00101GENDSE",
      "popName": "NDHM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 2060,
@@ -29373,7 +29373,7 @@
      "ip": "25.156.0.4",
      "hostName": "PTOM00101GENDSE",
      "popName": "PTOM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 2126,
@@ -30153,7 +30153,7 @@
      "ip": "25.141.0.6",
      "hostName": "QNHM00101GENDSE",
      "popName": "QNHM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 2182,
@@ -30191,7 +30191,7 @@
      "ip": "25.141.0.5",
      "hostName": "QNHM00102GENDSE",
      "popName": "QNHM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 2185,
@@ -30295,7 +30295,7 @@
      "ip": "25.143.0.4",
      "hostName": "QNHM00201GENDSE",
      "popName": "QNHM002",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 2193,
@@ -30373,7 +30373,7 @@
      "ip": "25.146.48.5",
      "hostName": "QNHM00301GENDSE",
      "popName": "QNHM003",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 2199,
@@ -32643,7 +32643,7 @@
      "ip": "25.211.0.5",
      "hostName": "TBHM00101GENDSE",
      "popName": "TBHM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 2363,
@@ -33519,7 +33519,7 @@
      "ip": "25.221.0.4",
      "hostName": "THAM00101GENDSE",
      "popName": "THAM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 2426,
@@ -34537,7 +34537,7 @@
      "ip": "25.161.0.5",
      "hostName": "TNNM00101GENDSE",
      "popName": "TNNM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 2499,
@@ -36131,7 +36131,7 @@
      "ip": "25.151.0.4",
      "hostName": "VPCM00101GENDSE",
      "popName": "VPCM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 2614,
@@ -36809,7 +36809,7 @@
      "ip": "25.196.99.4",
      "hostName": "YBIM00101GENDSE",
      "popName": "YBIM001",
-     "deviceType": "Máy phát"
+     "deviceType": "GEN"
     },
     {
      "id": 2663,
