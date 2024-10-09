@@ -16369,14 +16369,14 @@
   "recNums": 2,
   "rectBackup": 2,
   "thua": 0,
-  "thieu": 1,
+  "thieu": 0,
   "evaluate": "ok",
   "diem": 5,
   "modelCode": "1U",
   "quantityAccu": 4,
   "Batt_Type": 100,
-  "deXuat": "BS",
-  "tyLe": -33.33,
+  "deXuat": "nok",
+  "tyLe": 0,
   "update": "2024/10/06 23:40:56"
  },
  {
