@@ -8,7 +8,7 @@
             "affectedCustomerRatio": 0.24,
             "averageDowntime": 781.08,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -18,7 +18,7 @@
             "affectedCustomerRatio": 0.38,
             "averageDowntime": 494.44,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -28,7 +28,7 @@
             "affectedCustomerRatio": 0.36,
             "averageDowntime": 548.1,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -38,17 +38,17 @@
             "affectedCustomerRatio": 1.0,
             "averageDowntime": 338.58,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
-            "infMaintain": "NAN",
-            "branch": "NAN",
+            "infMaintain": "0",
+            "branch": "0",
             "dateWeekEnd": "2024-10-04 00:00:00",
             "affectedCustomerRatio": 0.25,
             "averageDowntime": 439.02,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -58,7 +58,7 @@
             "affectedCustomerRatio": 0.36,
             "averageDowntime": 702.33,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -68,7 +68,7 @@
             "affectedCustomerRatio": 0.29,
             "averageDowntime": 1017.61,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -76,9 +76,9 @@
             "branch": "SLA",
             "dateWeekEnd": "2024-10-04 00:00:00",
             "affectedCustomerRatio": 0.0,
-            "averageDowntime": NaN,
-            "onTimeTicketRatio": NaN,
-            "subjectiveAffectedRatio": NaN
+            "averageDowntime": 0,
+            "onTimeTicketRatio": 0,
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -88,7 +88,7 @@
             "affectedCustomerRatio": 0.47,
             "averageDowntime": 975.76,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -98,7 +98,7 @@
             "affectedCustomerRatio": 0.29,
             "averageDowntime": 270.14,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HDG",
@@ -108,7 +108,7 @@
             "affectedCustomerRatio": 1.27,
             "averageDowntime": 390.99,
             "onTimeTicketRatio": 99.21,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -128,7 +128,7 @@
             "affectedCustomerRatio": 0.96,
             "averageDowntime": 53.48,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -138,7 +138,7 @@
             "affectedCustomerRatio": 0.25,
             "averageDowntime": 499.05,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -148,7 +148,7 @@
             "affectedCustomerRatio": 1.04,
             "averageDowntime": 181.46,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -158,7 +158,7 @@
             "affectedCustomerRatio": 0.42,
             "averageDowntime": 805.19,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -168,7 +168,7 @@
             "affectedCustomerRatio": 1.18,
             "averageDowntime": 131.24,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -176,9 +176,9 @@
             "branch": "HN7",
             "dateWeekEnd": "2024-10-04 00:00:00",
             "affectedCustomerRatio": 0.0,
-            "averageDowntime": NaN,
-            "onTimeTicketRatio": NaN,
-            "subjectiveAffectedRatio": NaN
+            "averageDowntime": 0,
+            "onTimeTicketRatio": 0,
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -188,7 +188,7 @@
             "affectedCustomerRatio": 0.35,
             "averageDowntime": 453.24,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -196,9 +196,9 @@
             "branch": "HN12",
             "dateWeekEnd": "2024-10-04 00:00:00",
             "affectedCustomerRatio": 0.0,
-            "averageDowntime": NaN,
-            "onTimeTicketRatio": NaN,
-            "subjectiveAffectedRatio": NaN
+            "averageDowntime": 0,
+            "onTimeTicketRatio": 0,
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -208,7 +208,7 @@
             "affectedCustomerRatio": 0.19,
             "averageDowntime": 313.73,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -216,9 +216,9 @@
             "branch": "HN5",
             "dateWeekEnd": "2024-10-04 00:00:00",
             "affectedCustomerRatio": 0.0,
-            "averageDowntime": NaN,
-            "onTimeTicketRatio": NaN,
-            "subjectiveAffectedRatio": NaN
+            "averageDowntime": 0,
+            "onTimeTicketRatio": 0,
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -228,7 +228,7 @@
             "affectedCustomerRatio": 0.53,
             "averageDowntime": 107.91,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -238,7 +238,7 @@
             "affectedCustomerRatio": 0.09,
             "averageDowntime": 60.87,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -268,7 +268,7 @@
             "affectedCustomerRatio": 0.71,
             "averageDowntime": 24709.58,
             "onTimeTicketRatio": 35.63,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HPG",
@@ -308,7 +308,7 @@
             "affectedCustomerRatio": 1.2,
             "averageDowntime": 11079.95,
             "onTimeTicketRatio": 67.92,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -328,7 +328,7 @@
             "affectedCustomerRatio": 1.71,
             "averageDowntime": 90.64,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -338,7 +338,7 @@
             "affectedCustomerRatio": 0.07,
             "averageDowntime": 3233.33,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -348,7 +348,7 @@
             "affectedCustomerRatio": 0.58,
             "averageDowntime": 312.62,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -358,7 +358,7 @@
             "affectedCustomerRatio": 0.39,
             "averageDowntime": 231.08,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -368,7 +368,7 @@
             "affectedCustomerRatio": 0.35,
             "averageDowntime": 872.26,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -388,7 +388,7 @@
             "affectedCustomerRatio": 0.22,
             "averageDowntime": 577.36,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -398,7 +398,7 @@
             "affectedCustomerRatio": 1.26,
             "averageDowntime": 76.92,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -408,7 +408,7 @@
             "affectedCustomerRatio": 1.13,
             "averageDowntime": 565.35,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -418,7 +418,7 @@
             "affectedCustomerRatio": 0.09,
             "averageDowntime": 1700.0,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -428,7 +428,7 @@
             "affectedCustomerRatio": 4.94,
             "averageDowntime": 444.22,
             "onTimeTicketRatio": 98.41,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -438,7 +438,7 @@
             "affectedCustomerRatio": 0.43,
             "averageDowntime": 774.19,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -448,7 +448,7 @@
             "affectedCustomerRatio": 0.46,
             "averageDowntime": 948.0,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -458,17 +458,17 @@
             "affectedCustomerRatio": 1.28,
             "averageDowntime": 721.8,
             "onTimeTicketRatio": 98.68,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
-            "infMaintain": "NAN",
-            "branch": "NAN",
+            "infMaintain": "0",
+            "branch": "0",
             "dateWeekEnd": "2024-10-11 00:00:00",
             "affectedCustomerRatio": 0.17,
             "averageDowntime": 732.14,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -488,7 +488,7 @@
             "affectedCustomerRatio": 1.25,
             "averageDowntime": 723.74,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -498,7 +498,7 @@
             "affectedCustomerRatio": 0.6,
             "averageDowntime": 504.04,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -508,7 +508,7 @@
             "affectedCustomerRatio": 1.0,
             "averageDowntime": 844.79,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -518,7 +518,7 @@
             "affectedCustomerRatio": 1.65,
             "averageDowntime": 370.12,
             "onTimeTicketRatio": 83.81,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HDG",
@@ -538,7 +538,7 @@
             "affectedCustomerRatio": 0.08,
             "averageDowntime": 383.67,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -548,7 +548,7 @@
             "affectedCustomerRatio": 0.04,
             "averageDowntime": 1907.41,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -558,7 +558,7 @@
             "affectedCustomerRatio": 0.4,
             "averageDowntime": 210.06,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -578,7 +578,7 @@
             "affectedCustomerRatio": 0.83,
             "averageDowntime": 325.19,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -598,7 +598,7 @@
             "affectedCustomerRatio": 0.18,
             "averageDowntime": 182.99,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -608,7 +608,7 @@
             "affectedCustomerRatio": 1.67,
             "averageDowntime": 91.57,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -618,7 +618,7 @@
             "affectedCustomerRatio": 1.32,
             "averageDowntime": 213.49,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -626,9 +626,9 @@
             "branch": "HN3",
             "dateWeekEnd": "2024-10-11 00:00:00",
             "affectedCustomerRatio": 0.0,
-            "averageDowntime": NaN,
-            "onTimeTicketRatio": NaN,
-            "subjectiveAffectedRatio": NaN
+            "averageDowntime": 0,
+            "onTimeTicketRatio": 0,
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -648,7 +648,7 @@
             "affectedCustomerRatio": 1.19,
             "averageDowntime": 140.27,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -658,7 +658,7 @@
             "affectedCustomerRatio": 0.09,
             "averageDowntime": 435.56,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -675,10 +675,10 @@
             "infMaintain": "HPG",
             "branch": "HPG",
             "dateWeekEnd": "2024-10-11 00:00:00",
-            "affectedCustomerRatio": NaN,
-            "averageDowntime": NaN,
-            "onTimeTicketRatio": NaN,
-            "subjectiveAffectedRatio": NaN
+            "affectedCustomerRatio": 0,
+            "averageDowntime": 0,
+            "onTimeTicketRatio": 0,
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HPG",
@@ -698,7 +698,7 @@
             "affectedCustomerRatio": 1.1,
             "averageDowntime": 12574.2,
             "onTimeTicketRatio": 40.05,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HPG",
@@ -708,7 +708,7 @@
             "affectedCustomerRatio": 0.93,
             "averageDowntime": 24475.94,
             "onTimeTicketRatio": 12.46,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "QNH",
@@ -718,7 +718,7 @@
             "affectedCustomerRatio": 14.2,
             "averageDowntime": 1052.47,
             "onTimeTicketRatio": 95.91,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "QNH",
@@ -738,7 +738,7 @@
             "affectedCustomerRatio": 0.89,
             "averageDowntime": 13949.68,
             "onTimeTicketRatio": 61.15,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -748,7 +748,7 @@
             "affectedCustomerRatio": 1.22,
             "averageDowntime": 558.36,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -758,7 +758,7 @@
             "affectedCustomerRatio": 3.33,
             "averageDowntime": 181.89,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -766,9 +766,9 @@
             "branch": "CBG",
             "dateWeekEnd": "2024-10-11 00:00:00",
             "affectedCustomerRatio": 0.0,
-            "averageDowntime": NaN,
-            "onTimeTicketRatio": NaN,
-            "subjectiveAffectedRatio": NaN
+            "averageDowntime": 0,
+            "onTimeTicketRatio": 0,
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -788,7 +788,7 @@
             "affectedCustomerRatio": 0.63,
             "averageDowntime": 1450.85,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -798,7 +798,7 @@
             "affectedCustomerRatio": 1.35,
             "averageDowntime": 196.45,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -808,7 +808,7 @@
             "affectedCustomerRatio": 0.84,
             "averageDowntime": 555.02,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -818,7 +818,7 @@
             "affectedCustomerRatio": 2.3,
             "averageDowntime": 727.92,
             "onTimeTicketRatio": 98.59,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -828,7 +828,7 @@
             "affectedCustomerRatio": 1.05,
             "averageDowntime": 327.7,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -838,7 +838,7 @@
             "affectedCustomerRatio": 1.34,
             "averageDowntime": 1226.67,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -848,7 +848,7 @@
             "affectedCustomerRatio": 0.38,
             "averageDowntime": 108.0,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -858,7 +858,7 @@
             "affectedCustomerRatio": 2.21,
             "averageDowntime": 783.09,
             "onTimeTicketRatio": 80.12,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -878,7 +878,7 @@
             "affectedCustomerRatio": 0.1,
             "averageDowntime": 804.76,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -892,8 +892,8 @@
         },
         {
             "businessZoneId": "DBB",
-            "infMaintain": "NAN",
-            "branch": "NAN",
+            "infMaintain": "0",
+            "branch": "0",
             "dateWeekEnd": "2024-10-18 00:00:00",
             "affectedCustomerRatio": 1.9,
             "averageDowntime": 95.3,
@@ -908,7 +908,7 @@
             "affectedCustomerRatio": 0.19,
             "averageDowntime": 86.67,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -918,7 +918,7 @@
             "affectedCustomerRatio": 3.25,
             "averageDowntime": 211.38,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -938,7 +938,7 @@
             "affectedCustomerRatio": 0.22,
             "averageDowntime": 1075.79,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -948,7 +948,7 @@
             "affectedCustomerRatio": 1.74,
             "averageDowntime": 411.3,
             "onTimeTicketRatio": 99.13,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HDG",
@@ -968,7 +968,7 @@
             "affectedCustomerRatio": 0.21,
             "averageDowntime": 195.28,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -978,7 +978,7 @@
             "affectedCustomerRatio": 0.59,
             "averageDowntime": 184.12,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -988,7 +988,7 @@
             "affectedCustomerRatio": 0.22,
             "averageDowntime": 370.21,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -998,7 +998,7 @@
             "affectedCustomerRatio": 1.0,
             "averageDowntime": 252.79,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1008,7 +1008,7 @@
             "affectedCustomerRatio": 0.11,
             "averageDowntime": 449.3,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1018,7 +1018,7 @@
             "affectedCustomerRatio": 0.12,
             "averageDowntime": 386.79,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1028,7 +1028,7 @@
             "affectedCustomerRatio": 0.33,
             "averageDowntime": 277.29,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1038,7 +1038,7 @@
             "affectedCustomerRatio": 0.76,
             "averageDowntime": 57.38,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1048,7 +1048,7 @@
             "affectedCustomerRatio": 1.52,
             "averageDowntime": 119.61,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1058,7 +1058,7 @@
             "affectedCustomerRatio": 0.12,
             "averageDowntime": 520.31,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1068,7 +1068,7 @@
             "affectedCustomerRatio": 0.84,
             "averageDowntime": 51.23,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1078,7 +1078,7 @@
             "affectedCustomerRatio": 0.94,
             "averageDowntime": 102.94,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1088,7 +1088,7 @@
             "affectedCustomerRatio": 1.06,
             "averageDowntime": 197.03,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1098,17 +1098,17 @@
             "affectedCustomerRatio": 0.13,
             "averageDowntime": 184.89,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HPG",
             "infMaintain": "HPG",
             "branch": "HPG",
             "dateWeekEnd": "2024-10-18 00:00:00",
-            "affectedCustomerRatio": NaN,
-            "averageDowntime": NaN,
-            "onTimeTicketRatio": NaN,
-            "subjectiveAffectedRatio": NaN
+            "affectedCustomerRatio": 0,
+            "averageDowntime": 0,
+            "onTimeTicketRatio": 0,
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HPG",
@@ -1128,7 +1128,7 @@
             "affectedCustomerRatio": 0.14,
             "averageDowntime": 25762.0,
             "onTimeTicketRatio": 26.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HPG",
@@ -1158,7 +1158,7 @@
             "affectedCustomerRatio": 0.85,
             "averageDowntime": 1226.11,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "QNH",
@@ -1198,7 +1198,7 @@
             "affectedCustomerRatio": 0.14,
             "averageDowntime": 1450.0,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -1208,7 +1208,7 @@
             "affectedCustomerRatio": 1.1,
             "averageDowntime": 961.73,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -1218,7 +1218,7 @@
             "affectedCustomerRatio": 1.09,
             "averageDowntime": 1124.39,
             "onTimeTicketRatio": 74.63,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -1238,7 +1238,7 @@
             "affectedCustomerRatio": 1.59,
             "averageDowntime": 380.17,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -1268,7 +1268,7 @@
             "affectedCustomerRatio": 0.18,
             "averageDowntime": 1935.0,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1288,7 +1288,7 @@
             "affectedCustomerRatio": 1.22,
             "averageDowntime": 930.11,
             "onTimeTicketRatio": 80.11,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1298,7 +1298,7 @@
             "affectedCustomerRatio": 1.4,
             "averageDowntime": 511.94,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1322,13 +1322,13 @@
         },
         {
             "businessZoneId": "DBB",
-            "infMaintain": "NAN",
-            "branch": "NAN",
+            "infMaintain": "0",
+            "branch": "0",
             "dateWeekEnd": "2024-10-25 00:00:00",
             "affectedCustomerRatio": 0.19,
             "averageDowntime": 1223.91,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1338,7 +1338,7 @@
             "affectedCustomerRatio": 6.5,
             "averageDowntime": 162.63,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1348,7 +1348,7 @@
             "affectedCustomerRatio": 0.54,
             "averageDowntime": 677.74,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1358,7 +1358,7 @@
             "affectedCustomerRatio": 0.28,
             "averageDowntime": 514.89,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1368,7 +1368,7 @@
             "affectedCustomerRatio": 0.24,
             "averageDowntime": 1162.0,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1378,7 +1378,7 @@
             "affectedCustomerRatio": 0.83,
             "averageDowntime": 517.61,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HDG",
@@ -1388,7 +1388,7 @@
             "affectedCustomerRatio": 2.01,
             "averageDowntime": 246.81,
             "onTimeTicketRatio": 97.91,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1408,7 +1408,7 @@
             "affectedCustomerRatio": 0.27,
             "averageDowntime": 57.65,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1438,7 +1438,7 @@
             "affectedCustomerRatio": 0.14,
             "averageDowntime": 305.68,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1448,7 +1448,7 @@
             "affectedCustomerRatio": 0.51,
             "averageDowntime": 73.8,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1468,7 +1468,7 @@
             "affectedCustomerRatio": 0.51,
             "averageDowntime": 152.09,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1478,7 +1478,7 @@
             "affectedCustomerRatio": 0.29,
             "averageDowntime": 263.56,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1498,7 +1498,7 @@
             "affectedCustomerRatio": 0.32,
             "averageDowntime": 431.37,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1508,7 +1508,7 @@
             "affectedCustomerRatio": 0.12,
             "averageDowntime": 521.14,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1518,7 +1518,7 @@
             "affectedCustomerRatio": 0.35,
             "averageDowntime": 385.47,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1535,10 +1535,10 @@
             "infMaintain": "HPG",
             "branch": "HPG",
             "dateWeekEnd": "2024-10-25 00:00:00",
-            "affectedCustomerRatio": NaN,
-            "averageDowntime": NaN,
-            "onTimeTicketRatio": NaN,
-            "subjectiveAffectedRatio": NaN
+            "affectedCustomerRatio": 0,
+            "averageDowntime": 0,
+            "onTimeTicketRatio": 0,
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HPG",
@@ -1548,7 +1548,7 @@
             "affectedCustomerRatio": 5.03,
             "averageDowntime": 1324.22,
             "onTimeTicketRatio": 52.53,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HPG",
@@ -1568,7 +1568,7 @@
             "affectedCustomerRatio": 0.38,
             "averageDowntime": 14226.24,
             "onTimeTicketRatio": 25.53,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "QNH",
@@ -1588,7 +1588,7 @@
             "affectedCustomerRatio": 0.19,
             "averageDowntime": 1542.03,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "QNH",
@@ -1598,7 +1598,7 @@
             "affectedCustomerRatio": 0.19,
             "averageDowntime": 9107.46,
             "onTimeTicketRatio": 40.3,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -1618,7 +1618,7 @@
             "affectedCustomerRatio": 0.27,
             "averageDowntime": 805.56,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -1628,7 +1628,7 @@
             "affectedCustomerRatio": 0.05,
             "averageDowntime": 3150.0,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -1638,7 +1638,7 @@
             "affectedCustomerRatio": 0.13,
             "averageDowntime": 1566.67,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -1648,7 +1648,7 @@
             "affectedCustomerRatio": 0.64,
             "averageDowntime": 1715.7,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -1668,7 +1668,7 @@
             "affectedCustomerRatio": 0.78,
             "averageDowntime": 364.3,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -1678,7 +1678,7 @@
             "affectedCustomerRatio": 0.57,
             "averageDowntime": 407.19,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -1688,7 +1688,7 @@
             "affectedCustomerRatio": 0.71,
             "averageDowntime": 507.39,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -1698,7 +1698,7 @@
             "affectedCustomerRatio": 2.65,
             "averageDowntime": 480.81,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         }
     ],
     "InfMaintain": [
@@ -1709,7 +1709,7 @@
             "affectedCustomerRatio": 0.24,
             "averageDowntime": 781.08,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1718,7 +1718,7 @@
             "affectedCustomerRatio": 0.38,
             "averageDowntime": 494.44,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1727,7 +1727,7 @@
             "affectedCustomerRatio": 0.36,
             "averageDowntime": 548.1,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1736,16 +1736,16 @@
             "affectedCustomerRatio": 1.0,
             "averageDowntime": 338.58,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
-            "infMaintain": "NAN",
+            "infMaintain": "0",
             "dateWeekEnd": "2024-10-04 00:00:00",
             "affectedCustomerRatio": 0.25,
             "averageDowntime": 439.02,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1754,7 +1754,7 @@
             "affectedCustomerRatio": 0.36,
             "averageDowntime": 702.33,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1763,16 +1763,16 @@
             "affectedCustomerRatio": 0.29,
             "averageDowntime": 1017.61,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
             "infMaintain": "SLA",
             "dateWeekEnd": "2024-10-04 00:00:00",
             "affectedCustomerRatio": 0.0,
-            "averageDowntime": NaN,
-            "onTimeTicketRatio": NaN,
-            "subjectiveAffectedRatio": NaN
+            "averageDowntime": 0,
+            "onTimeTicketRatio": 0,
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1781,7 +1781,7 @@
             "affectedCustomerRatio": 0.47,
             "averageDowntime": 975.76,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1790,7 +1790,7 @@
             "affectedCustomerRatio": 0.29,
             "averageDowntime": 270.14,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HDG",
@@ -1799,7 +1799,7 @@
             "affectedCustomerRatio": 1.27,
             "averageDowntime": 390.99,
             "onTimeTicketRatio": 99.21,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1817,7 +1817,7 @@
             "affectedCustomerRatio": 0.55,
             "averageDowntime": 272.52,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1826,7 +1826,7 @@
             "affectedCustomerRatio": 0.17,
             "averageDowntime": 415.79,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -1871,7 +1871,7 @@
             "affectedCustomerRatio": 1.71,
             "averageDowntime": 90.64,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -1880,7 +1880,7 @@
             "affectedCustomerRatio": 0.07,
             "averageDowntime": 3233.33,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -1889,7 +1889,7 @@
             "affectedCustomerRatio": 0.58,
             "averageDowntime": 312.62,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -1898,7 +1898,7 @@
             "affectedCustomerRatio": 0.39,
             "averageDowntime": 231.08,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -1907,7 +1907,7 @@
             "affectedCustomerRatio": 0.35,
             "averageDowntime": 872.26,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -1925,7 +1925,7 @@
             "affectedCustomerRatio": 0.22,
             "averageDowntime": 577.36,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -1934,7 +1934,7 @@
             "affectedCustomerRatio": 1.26,
             "averageDowntime": 76.92,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -1943,7 +1943,7 @@
             "affectedCustomerRatio": 1.13,
             "averageDowntime": 565.35,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1952,7 +1952,7 @@
             "affectedCustomerRatio": 0.09,
             "averageDowntime": 1700.0,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1961,7 +1961,7 @@
             "affectedCustomerRatio": 4.94,
             "averageDowntime": 444.22,
             "onTimeTicketRatio": 98.41,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1970,7 +1970,7 @@
             "affectedCustomerRatio": 0.43,
             "averageDowntime": 774.19,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1979,7 +1979,7 @@
             "affectedCustomerRatio": 0.46,
             "averageDowntime": 948.0,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -1988,16 +1988,16 @@
             "affectedCustomerRatio": 1.28,
             "averageDowntime": 721.8,
             "onTimeTicketRatio": 98.68,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
-            "infMaintain": "NAN",
+            "infMaintain": "0",
             "dateWeekEnd": "2024-10-11 00:00:00",
             "affectedCustomerRatio": 0.17,
             "averageDowntime": 732.14,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -2015,7 +2015,7 @@
             "affectedCustomerRatio": 1.25,
             "averageDowntime": 723.74,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -2024,7 +2024,7 @@
             "affectedCustomerRatio": 0.6,
             "averageDowntime": 504.04,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -2033,7 +2033,7 @@
             "affectedCustomerRatio": 1.0,
             "averageDowntime": 844.79,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -2042,7 +2042,7 @@
             "affectedCustomerRatio": 1.65,
             "averageDowntime": 370.12,
             "onTimeTicketRatio": 83.81,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HDG",
@@ -2114,7 +2114,7 @@
             "affectedCustomerRatio": 1.22,
             "averageDowntime": 558.36,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -2123,16 +2123,16 @@
             "affectedCustomerRatio": 3.33,
             "averageDowntime": 181.89,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
             "infMaintain": "CBG",
             "dateWeekEnd": "2024-10-11 00:00:00",
             "affectedCustomerRatio": 0.0,
-            "averageDowntime": NaN,
-            "onTimeTicketRatio": NaN,
-            "subjectiveAffectedRatio": NaN
+            "averageDowntime": 0,
+            "onTimeTicketRatio": 0,
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -2150,7 +2150,7 @@
             "affectedCustomerRatio": 0.63,
             "averageDowntime": 1450.85,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -2159,7 +2159,7 @@
             "affectedCustomerRatio": 1.35,
             "averageDowntime": 196.45,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -2168,7 +2168,7 @@
             "affectedCustomerRatio": 0.84,
             "averageDowntime": 555.02,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -2177,7 +2177,7 @@
             "affectedCustomerRatio": 2.3,
             "averageDowntime": 727.92,
             "onTimeTicketRatio": 98.59,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -2186,7 +2186,7 @@
             "affectedCustomerRatio": 1.05,
             "averageDowntime": 327.7,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -2195,7 +2195,7 @@
             "affectedCustomerRatio": 1.34,
             "averageDowntime": 1226.67,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -2204,7 +2204,7 @@
             "affectedCustomerRatio": 0.38,
             "averageDowntime": 108.0,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -2213,7 +2213,7 @@
             "affectedCustomerRatio": 2.21,
             "averageDowntime": 783.09,
             "onTimeTicketRatio": 80.12,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -2231,7 +2231,7 @@
             "affectedCustomerRatio": 0.1,
             "averageDowntime": 804.76,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -2244,7 +2244,7 @@
         },
         {
             "businessZoneId": "DBB",
-            "infMaintain": "NAN",
+            "infMaintain": "0",
             "dateWeekEnd": "2024-10-18 00:00:00",
             "affectedCustomerRatio": 1.9,
             "averageDowntime": 95.3,
@@ -2258,7 +2258,7 @@
             "affectedCustomerRatio": 0.19,
             "averageDowntime": 86.67,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -2267,7 +2267,7 @@
             "affectedCustomerRatio": 3.25,
             "averageDowntime": 211.38,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -2285,7 +2285,7 @@
             "affectedCustomerRatio": 0.22,
             "averageDowntime": 1075.79,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -2294,7 +2294,7 @@
             "affectedCustomerRatio": 1.74,
             "averageDowntime": 411.3,
             "onTimeTicketRatio": 99.13,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HDG",
@@ -2312,7 +2312,7 @@
             "affectedCustomerRatio": 0.53,
             "averageDowntime": 232.64,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -2321,7 +2321,7 @@
             "affectedCustomerRatio": 0.19,
             "averageDowntime": 330.22,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -2330,7 +2330,7 @@
             "affectedCustomerRatio": 0.76,
             "averageDowntime": 96.01,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -2339,7 +2339,7 @@
             "affectedCustomerRatio": 0.64,
             "averageDowntime": 141.01,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HPG",
@@ -2384,7 +2384,7 @@
             "affectedCustomerRatio": 0.14,
             "averageDowntime": 1450.0,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -2393,7 +2393,7 @@
             "affectedCustomerRatio": 1.1,
             "averageDowntime": 961.73,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -2402,7 +2402,7 @@
             "affectedCustomerRatio": 1.09,
             "averageDowntime": 1124.39,
             "onTimeTicketRatio": 74.63,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -2420,7 +2420,7 @@
             "affectedCustomerRatio": 1.59,
             "averageDowntime": 380.17,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -2447,7 +2447,7 @@
             "affectedCustomerRatio": 0.18,
             "averageDowntime": 1935.0,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -2465,7 +2465,7 @@
             "affectedCustomerRatio": 1.22,
             "averageDowntime": 930.11,
             "onTimeTicketRatio": 80.11,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -2474,7 +2474,7 @@
             "affectedCustomerRatio": 1.4,
             "averageDowntime": 511.94,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -2496,12 +2496,12 @@
         },
         {
             "businessZoneId": "DBB",
-            "infMaintain": "NAN",
+            "infMaintain": "0",
             "dateWeekEnd": "2024-10-25 00:00:00",
             "affectedCustomerRatio": 0.19,
             "averageDowntime": 1223.91,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -2510,7 +2510,7 @@
             "affectedCustomerRatio": 6.5,
             "averageDowntime": 162.63,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -2519,7 +2519,7 @@
             "affectedCustomerRatio": 0.54,
             "averageDowntime": 677.74,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -2528,7 +2528,7 @@
             "affectedCustomerRatio": 0.28,
             "averageDowntime": 514.89,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -2537,7 +2537,7 @@
             "affectedCustomerRatio": 0.24,
             "averageDowntime": 1162.0,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "DBB",
@@ -2546,7 +2546,7 @@
             "affectedCustomerRatio": 0.83,
             "averageDowntime": 517.61,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HDG",
@@ -2555,7 +2555,7 @@
             "affectedCustomerRatio": 2.01,
             "averageDowntime": 246.81,
             "onTimeTicketRatio": 97.91,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -2627,7 +2627,7 @@
             "affectedCustomerRatio": 0.27,
             "averageDowntime": 805.56,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -2636,7 +2636,7 @@
             "affectedCustomerRatio": 0.05,
             "averageDowntime": 3150.0,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -2645,7 +2645,7 @@
             "affectedCustomerRatio": 0.13,
             "averageDowntime": 1566.67,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -2654,7 +2654,7 @@
             "affectedCustomerRatio": 0.64,
             "averageDowntime": 1715.7,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -2672,7 +2672,7 @@
             "affectedCustomerRatio": 0.78,
             "averageDowntime": 364.3,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -2681,7 +2681,7 @@
             "affectedCustomerRatio": 0.57,
             "averageDowntime": 407.19,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -2690,7 +2690,7 @@
             "affectedCustomerRatio": 0.71,
             "averageDowntime": 507.39,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "TBB",
@@ -2699,7 +2699,7 @@
             "affectedCustomerRatio": 2.65,
             "averageDowntime": 480.81,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         }
     ],
     "BusinessZone": [
@@ -2709,7 +2709,7 @@
             "affectedCustomerRatio": 0.42,
             "averageDowntime": 524.33,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HDG",
@@ -2717,7 +2717,7 @@
             "affectedCustomerRatio": 1.27,
             "averageDowntime": 390.99,
             "onTimeTicketRatio": 99.21,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
@@ -2821,7 +2821,7 @@
             "affectedCustomerRatio": 0.53,
             "averageDowntime": 165.49,
             "onTimeTicketRatio": 100.0,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HPG",
@@ -2861,7 +2861,7 @@
             "affectedCustomerRatio": 2.01,
             "averageDowntime": 246.81,
             "onTimeTicketRatio": 97.91,
-            "subjectiveAffectedRatio": NaN
+            "subjectiveAffectedRatio": 0
         },
         {
             "businessZoneId": "HNI",
