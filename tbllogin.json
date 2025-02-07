@@ -15,7 +15,7 @@
   },
   {
     "username": "thanvv",
-    "password": "123",
+    "password": 123,
     "HoVaTen": "Vũ Văn Thân",
     "Email": "thanvv@fpt.com",
     "VaiTro": "admin"
@@ -29,7 +29,7 @@
   },
   {
     "username": "cuongvd5",
-    "password": ")uRkazQUC3Ez",
+    "password": 123,
     "HoVaTen": "Vũ Đình Cường",
     "Email": "cuongvd5@fpt.com",
     "VaiTro": "admin"
@@ -57,7 +57,7 @@
   },
   {
     "username": "manhdd15",
-    "password": "1",
+    "password": "123",
     "HoVaTen": "Đỗ Đình Mạnh",
     "Email": "manhdd15@fpt.com",
     "VaiTro": "admin"
