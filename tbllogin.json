@@ -7,6 +7,13 @@
     "VaiTro": "user"
   },
   {
+    "username": "ducnx",
+    "password": 123,
+    "HoVaTen": "Nguyễn Xuân Đức",
+    "Email": "ducnx@fpt.com",
+    "VaiTro": "admin"
+  },
+  {
     "username": "tungnt60",
     "password": 123,
     "HoVaTen": "Nguyễn Thanh Tùng",
